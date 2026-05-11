@@ -25,7 +25,23 @@ This repository contains the Machine Learning lab work for the ** Computer Syste
   - **data/**
     - `cars.csv`
 
-  ## Students
+- **Lab04SQ/**
+  - `Lab04SQ_NB_chattah_badaoui_v1.ipynb` (Naive Bayes lab notebook)
+  - `Lab04SQ_NB.txt` (lab notes / report text)
+  - **data/**
+    - `spam.csv`
+
+- **Lab05SQ/**
+  - `Lab05SQ_SVM_chattah_badaoui_v1.ipynb` (Support Vector Machines lab notebook)
+  - `Lab05SQ_SVM.txt` (lab notes / report text)
+
+- **Lab06SQ/**
+  - `Lab06SQ_NN_BADAOUI_CHATTAH_SIQ1.ipynb` (Neural Networks lab notebook)
+  - `Lab06SQ_NN.txt` (lab notes / report text)
+  - **data/**
+    - `diabetes2.csv`
+
+## Students
 
 - **Chattah Salsabila** — ms_chattah@esi.dz
 - **Badaoui Ikram** — mi_badaoui@esi.dz
